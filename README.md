@@ -7,4 +7,4 @@ The entire data is made up credit card details obtained from a financial institu
 
 ![image](pictures/q11.JPG)
 
-link to answer
+👉 [jupyter notebook](https://github.com/tan-koo/Money-Credit/blob/master/jupyter/credit.ipynb) A ```code part``` I'm working on.
